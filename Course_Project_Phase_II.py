@@ -13,7 +13,7 @@ def getHoursWorked():
 
 
 def getHourlyRate():
-    hourlyrate = float(input("Enter Hourly Rate:    "))
+    hourlyrate = float(input("Enter Hourly Rate:    ")) 
     return hourlyrate
 
 def getTaxRate():
